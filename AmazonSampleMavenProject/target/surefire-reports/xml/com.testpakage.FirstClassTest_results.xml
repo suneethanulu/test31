@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="sampletest"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="16.213">
+  <properties />
+  
+  
+            <testcase name="Atc2" time="0.009" classname="com.testpakage.FirstClassTest" />
+                <testcase name="tc1" time="16.204" classname="com.testpakage.FirstClassTest" />
+      
+</testsuite>

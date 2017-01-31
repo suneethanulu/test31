@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13999" started-at="2017-01-30T23:14:29Z" finished-at="2017-01-30T23:14:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13999" started-at="2017-01-30T23:14:29Z" finished-at="2017-01-30T23:14:43Z">
+      <class name="com.testpakage.FirstClassTest">
+        <test-method status="PASS" signature="Atc2()[pri:0, instance:com.testpakage.FirstClassTest@cc285f4]" name="Atc2" duration-ms="55" started-at="2017-01-30T15:14:30Z" finished-at="2017-01-30T15:14:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Atc2 -->
+        <test-method status="PASS" signature="tc1()[pri:0, instance:com.testpakage.FirstClassTest@cc285f4]" name="tc1" duration-ms="13864" started-at="2017-01-30T15:14:30Z" finished-at="2017-01-30T15:14:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+      </class> <!-- com.testpakage.FirstClassTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
